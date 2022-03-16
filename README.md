@@ -14,3 +14,7 @@ Invalid information throws an error message dialog:
 Sorting and searching for clients:
 
 <a href="https://imgur.com/f7IXBon"><img src="https://i.imgur.com/f7IXBon.gif" title="source: imgur.com" /></a>
+
+Viewing client account balances and making deposits. Freezing accounts prevents the balance from changing. The clients are organized in a linked list so it's easy to go from client to client with the previous and next buttons.
+
+<a href="https://imgur.com/lLXcg0r"><img src="https://i.imgur.com/lLXcg0r.gif" title="source: imgur.com" /></a>
