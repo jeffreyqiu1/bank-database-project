@@ -10,3 +10,7 @@ Making a new customer account:
 Invalid information throws an error message dialog:
 
 <a href="https://imgur.com/PCdr1BA"><img src="https://i.imgur.com/PCdr1BA.gif" title="source: imgur.com" /></a>
+
+Sorting and searching for clients:
+
+[img]https://i.imgur.com/ZomoLzG.gif[/img]
