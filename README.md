@@ -12,3 +12,5 @@ Invalid information throws an error message dialog:
 <a href="https://imgur.com/PCdr1BA"><img src="https://i.imgur.com/PCdr1BA.gif" title="source: imgur.com" width="50%" height="30%"/></a>
 
 Sorting and searching for clients:
+
+<a href="https://imgur.com/f7IXBon"><img src="https://i.imgur.com/f7IXBon.gif" title="source: imgur.com" /></a>
