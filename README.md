@@ -5,10 +5,10 @@ To run the app, click on the green "Code" button above the files, then click "Do
 
 Making a new customer account:
 
-<a href="https://imgur.com/zkUi8b0"><img src="https://i.imgur.com/zkUi8b0.gif" title="source: imgur.com" width="50%" height="50%"/></a>
+<a href="https://imgur.com/zkUi8b0"><img src="https://i.imgur.com/zkUi8b0.gif" title="source: imgur.com" width="50%" height="30%"/></a>
 
 Invalid information throws an error message dialog:
 
-<a href="https://imgur.com/PCdr1BA"><img src="https://i.imgur.com/PCdr1BA.gif" title="source: imgur.com" width="50%" height="50%"/></a>
+<a href="https://imgur.com/PCdr1BA"><img src="https://i.imgur.com/PCdr1BA.gif" title="source: imgur.com" width="50%" height="30%"/></a>
 
 Sorting and searching for clients:
