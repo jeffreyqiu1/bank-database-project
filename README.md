@@ -5,7 +5,7 @@ To run the app, click on the green "Code" button above the files, then click "Do
 
 Making a new customer account. Invalid info throws an error message.
 
-<a href="https://imgur.com/xhCsaFT"><img src="https://i.imgur.com/xhCsaFT.gif" title="source: imgur.com" height="50%"/></a>
+<a href="https://imgur.com/xhCsaFT"><img src="https://i.imgur.com/xhCsaFT.gif" title="source: imgur.com" height="10%"/></a>
 
 Sorting and searching for clients.
 
