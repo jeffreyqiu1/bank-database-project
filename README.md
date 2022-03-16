@@ -3,4 +3,8 @@ This is a bank teller desktop application I made for a school project. It allows
 
 To run the app, click on the green "Code" button above the files, then click "Download Zip". The repository will be downloaded to your computer. Extract the repository, then click on the Bank.jar file in the Program Files folder and the program will start.
 
+Making a new customer account:
 <a href="https://imgur.com/zkUi8b0"><img src="https://i.imgur.com/zkUi8b0.gif" title="source: imgur.com" /></a>
+
+Invalid information throws an error message dialog:
+<a href="https://imgur.com/PCdr1BA"><img src="https://i.imgur.com/PCdr1BA.gif" title="source: imgur.com" /></a>
